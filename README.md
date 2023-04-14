@@ -4,3 +4,5 @@ To run this app you must run this command
 ==> json-server --watch db.json --port 8080
 ==> lt --port 8080 --subdomain application-mock-server
 ==> react-native run-android
+
+3- login with name hassan1 and pas 123
