@@ -39,5 +39,5 @@ Like `npm start` / `yarn start`, but also attempts to open your app on a connect
 ==> lt --port 8080 --subdomain application-mock-server
 ==> react-native run-android
 
-3- login with name hassan1 and pas 123
+3- login with name hassan1 and pas 123 <br/>
 💙 If you like this project, give it a ⭐ and share it with friends!
